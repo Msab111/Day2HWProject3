@@ -15,4 +15,14 @@ public void divid1 (int a, int b) {
 
 }
 
+
+
+public void divid3 (int a, int b) {
+	
+	System.out.println (a/b);
+
+}
+
+
+
 }
